@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Calculator_basic_with_radioBtn\Calculator_basic_with_radioBtn\bin\Debug\Calculator_basic_with_radioBtn.exe.config
+C:\Users\user\source\repos\Calculator_basic_with_radioBtn\Calculator_basic_with_radioBtn\bin\Debug\Calculator_basic_with_radioBtn.exe
+C:\Users\user\source\repos\Calculator_basic_with_radioBtn\Calculator_basic_with_radioBtn\bin\Debug\Calculator_basic_with_radioBtn.pdb
+C:\Users\user\source\repos\Calculator_basic_with_radioBtn\Calculator_basic_with_radioBtn\obj\Debug\Calculator_basic_with_radioBtn.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Calculator_basic_with_radioBtn\Calculator_basic_with_radioBtn\obj\Debug\Calculator_basic_with_radioBtn.Calculator.resources
+C:\Users\user\source\repos\Calculator_basic_with_radioBtn\Calculator_basic_with_radioBtn\obj\Debug\Calculator_basic_with_radioBtn.Properties.Resources.resources
+C:\Users\user\source\repos\Calculator_basic_with_radioBtn\Calculator_basic_with_radioBtn\obj\Debug\Calculator_basic_with_radioBtn.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Calculator_basic_with_radioBtn\Calculator_basic_with_radioBtn\obj\Debug\Calculator_basic_with_radioBtn.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Calculator_basic_with_radioBtn\Calculator_basic_with_radioBtn\obj\Debug\Calculator_basic_with_radioBtn.exe
+C:\Users\user\source\repos\Calculator_basic_with_radioBtn\Calculator_basic_with_radioBtn\obj\Debug\Calculator_basic_with_radioBtn.pdb
